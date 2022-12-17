@@ -1,0 +1,43 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+  border-radius: 20px;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+  border-radius: 20px;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+  border-radius: 20px;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+  border-radius: 20px;
+}
+
+/* Write CSS code here. */
+.cards-container {
+  text-align: left;
+  padding: 10px;
+  margin: 20px;
+  border-radius: 20px;
+}
+.card-heading {
+  font-size: 18px;
+  color: #171f46;
+}
+.card-para {
+  color: #64748b;
+  font-size: 14px;
+}
+.img {
+  text-align: right;
+  height: 50px;
+  width: 50px;
+}
+.image {
+  text-align: right;
+}
